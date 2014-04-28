@@ -1,0 +1,32 @@
+{
+	"detect_identation": true,
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"file_exclude_patterns":
+	[
+		"gin-bin",
+		".DS_Store",
+		"*.bin"
+	],
+	"folder_exclude_patterns":
+	[
+		"rethinkdb_data",
+		".*"
+	],
+	"font_face": "Monaco",
+	"font_size": 18,
+	"highlight_modified_tabs": true,
+	"ident_to_bracket": true,
+	"ignored_packages":
+	[
+		"SublimeCodeIntel",
+		"Vintage"
+	],
+	"line_numbers": true,
+	"smart_ident": true,
+	"soda_folder_icons": true,
+	"spell_check": false,
+	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_spaces": true
+}
